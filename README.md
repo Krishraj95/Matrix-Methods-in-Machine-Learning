@@ -1,4 +1,4 @@
 # Matrix-Methods-in-Machine-Learning
-DOCUMENT CLUSTERING USING VARIANTS OF NNMF : ‘Non-Negative Sparse Coding’ for the clustering of unlabeled documents into groups
+WEB DOCUMENT CLUSTERING USING VARIANTS OF NNMF : ‘Non-Negative Sparse Coding’ for the clustering of unlabeled web documents.
 
-I developed a novel unsupervised learning algorithm ‘Non-Negative Sparse Coding’ for the clustering of unlabeled documents into groups and then predicting the label for the groups using the training data. The algorithm achieved an accuracy of around 92% on the grouping of test data documents. The algorithm finds application in Web document classification and topic modelling. The project was among the top 10 in a class of 100.
+Developed an unsupervised machine learning algorithm ‘Non-Negative Sparse Coding’ with term frequency matrix for quick information retrieval from Web documents, achieving an accuracy of around 92% on the grouping of test data documents. The project was among the top 5 in a class of 100. 
